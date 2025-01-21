@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrunali Zalavadiya</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Full-Stack Software Developer</h3>
 
 - 💼 **Experience**: 5+ years of experience creating scalable, secure, and high-performance web applications.
   
@@ -11,7 +11,7 @@
 
 - 🌟 **Passion**: Delivering user-centric software solutions, optimizing performance, and exploring innovative tech like 3D web development with Three.js.
 
-📫 **Let's Connect**: Email: zalavadiyamrunali@gmail.com
+📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/mrunali-zalavadiya) | Email: zalavadiyamrunali@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
