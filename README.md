@@ -11,7 +11,9 @@
 
 - 🌟 **Passion**: Delivering user-centric software solutions, optimizing performance, and exploring innovative tech like 3D web development with Three.js.
 
-📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/mrunali-zalavadiya) | Email: zalavadiyamrunali@gmail.com
+📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/mrunali-zalavadiya) | Email: zalavadiyamrunali@gmail.com | Portfolio : https://mrunali.vercel.app/
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
